@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/preservance717/moogodb-node-demo/issues"
   },
-  "homepage": "https://github.com/preservance717/moogodb-node-demo#readme"
+  "homepage": "https://github.com/preservance717/moogodb-node-demo#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "mongodb": "^2.2.5"
+  }
 }
